@@ -5,3 +5,4 @@ _he/him_
 - Current focus 💡: MERN full stack development
 - Next focus 🎓: Python for data analysis
 - Future goals 📅: experiment with TypeScript and using Python for machine learning
+- Contact me 📫: harrytobydavis@gmail.com
