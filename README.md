@@ -2,8 +2,8 @@
 _he/him_
 
 - Currently working on 💻: [QuizCreate](https://github.com/harryd05/quizcreate)
-- Current focus 💡: MERN full stack development
-- Next focus 🎓: Python for data analysis
+- Current focus 💡: MERN full stack development and Python for data analysis
+- Next focus 🎓: Python for scientific computing
 - Future goals 📅: experiment with TypeScript and using Python for machine learning
 - Contact me 📫: harrytobydavis@gmail.com or [LinkedIn](https://www.linkedin.com/in/harry-d-7901a0218/)
 
