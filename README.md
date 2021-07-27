@@ -1,7 +1,8 @@
 ## Hi, I'm Harry 👋
 _he/him_
 
-- Currently working on 💻: [QuizCreate](https://github.com/harryd05/quizcreate)
+- Recently completed project ✔: [QuizCreate](https://github.com/harryd05/quizcreate)
+- Currently working on 💻: [Python courses on FCC](https://github.com/harryd05/FCCPythonCourses) and EasyA website
 - Current focus 💡: MERN full stack development and Python for data analysis
 - Next focus 🎓: Python for scientific computing
 - Future goals 📅: experiment with TypeScript and using Python for machine learning
