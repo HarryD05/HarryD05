@@ -1,8 +1,8 @@
 ## Hi, I'm Harry 👋
 _he/him_
 
-- Recently completed project ✔: [QuizCreate](https://github.com/harryd05/quizcreate)
-- Currently working on 💻: [Path finding algorithms visualised](https://github.com/harryd05/pathfinding-algorithms) and EasyA website
+- Most recent project ✔: [Path finding algorithms visualised](https://github.com/harryd05/pathfinding-algorithms) (partially completed)
+- Currently working on 💻: [QuizCreate](https://github.com/harryd05/quizcreate)
 - Current focuses 💡: P5.js and React
 - Next focus 🎓: Python for data anlysis and scientific computing
 - Future goals 📅: experiment with TypeScript and using Python for machine learning
