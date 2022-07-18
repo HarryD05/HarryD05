@@ -1,11 +1,10 @@
 ## Hi, I'm Harry 👋
 _he/him_
 
-- Most recent project ✔: [Path finding algorithms visualised](https://github.com/harryd05/pathfinding-algorithms) (partially completed)
-- Currently working on 💻: [QuizCreate](https://github.com/harryd05/quizcreate)
-- Current focuses 💡: P5.js and React
-- Next focus 🎓: Python for data anlysis and scientific computing
-- Future goals 📅: experiment with TypeScript and using Python for machine learning
+- Most recent project ✔: [QuizCreate](https://github.com/harryd05/quizcreate) - still private as it is coursework
+- Currently working on 💻: STEAM Project
+- Current focuses 💡: React-Gatsby, Machine learning with Python and Bayesian statistics with R
+- Next focus 🎓: Experimenting with Quantum computing
 - Contact me 📫: harrytobydavis@gmail.com or [LinkedIn](https://www.linkedin.com/in/harry-d-7901a0218/)
 
 <a href="https://github.com/harryd05">
